@@ -1,7 +1,0 @@
-name: "🚀 Feature request"
-description: Suggest an improvement
-body:
-  - type: input
-    id: idea
-    attributes:
-      label: Your idea in one sentence
